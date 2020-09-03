@@ -5,8 +5,8 @@ body {
   background-color: rgb(24, 24, 24);
 }
 
-.layout{
-  width: 600px;
+.app{
+  width: 500px;
 }
 
 .allButtons button{
